@@ -1,6 +1,6 @@
 require_relative '../mammal'
 
-class Bat
+class Bat < Mammal
 
     include Animal
 
@@ -17,5 +17,3 @@ class Bat
     end
 
 end
-
-Animal.speak

@@ -1,6 +1,6 @@
 require_relative '../mammal'
 
-class Gorrilla
+class Gorrilla < Mammal
 
     include Animal
 

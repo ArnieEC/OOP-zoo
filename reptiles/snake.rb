@@ -1,6 +1,6 @@
 require_relative '../reptile'
 
-class Lizard
+class Lizard < Reptile
 
     include Animal
 
