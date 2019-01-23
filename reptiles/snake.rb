@@ -12,4 +12,8 @@ class Lizard
         puts 'Lizards have scales'
     end
 
+    def self.movement
+        puts 'Lizards can walk'
+    end
+
 end

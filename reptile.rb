@@ -1,3 +1,5 @@
+require_relative './animal'
+
 class Reptile
 
     include Animal

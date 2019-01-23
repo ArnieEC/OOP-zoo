@@ -12,6 +12,10 @@ class Bat
         puts 'Bats have fur'
     end
 
+    def self.movement
+        puts 'Bats can fly'
+    end
+
 end
 
 Animal.speak

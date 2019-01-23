@@ -12,4 +12,8 @@ class Gorrilla
         puts 'Gorrillas have fur'
     end
 
+    def self.movement
+        puts 'Gorrillas can walk'
+    end
+
 end
